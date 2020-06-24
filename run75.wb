@@ -1,0 +1,4 @@
+ nohup ./run75 1 -1 &
+ nohup ./runc75 1 -1 &
+ nohup ./runcp75 1 -1 &
+ nohup ./runp75 1 -1 &

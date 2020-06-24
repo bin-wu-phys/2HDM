@@ -1,0 +1,4 @@
+ nohup ./run25 1 -1 &
+ nohup ./runc25 1 -1 &
+ nohup ./runcp25 1 -1 &
+ nohup ./runp25 1 -1 &
